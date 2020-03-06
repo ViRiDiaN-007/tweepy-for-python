@@ -11,3 +11,8 @@ A customizable twitter bot for interacting with Twitter API for Python 3x
 	consumer_secret=
 	access_key=
 	access_secret=
+
+##Dependencies:
+	Tweepy:	https://www.tweepy.org/
+	Windows CLI install: py -m pip install tweepy 
+	Linux/macOS install: pip install tweepy
