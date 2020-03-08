@@ -13,6 +13,9 @@ A customizable twitter bot for interacting with Twitter API for Python 3x
 	access_secret=
 
 ##Dependencies:
-	Tweepy:	https://www.tweepy.org/
-	Windows CLI install: py -m pip install tweepy 
-	Linux/macOS install: pip install tweepy
+	All dependencies are listed in 'requirements.txt'
+	You can install them in your OS terminal with the following commands-
+	
+	(Be sure to run the command for EVERY item in 'requirements.txt')
+	Windows: py -m pip install "tweepy==3.8.0"
+	Linux/macOS: pip install "tweepy==3.8.0"
